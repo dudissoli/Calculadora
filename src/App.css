@@ -1,5 +1,5 @@
 .content{
-    background: #daf0ff;
+    background: #fff0ff;
     height: 100vh;
     display: flex;
     align-items: center;
@@ -7,25 +7,25 @@
 }
 
 .calculadora{
-    background: #17181a;
-    padding: 32px;
-    border-radius: 32px;
+    background: #4B0082;
+    padding: 34px;
+    border-radius: 34px;
 
 }
 
 .calculadoraHeader {
-    padding-block: 32px;
+    padding-block: 50px;
     text-align: center;
     height: 146px;
 }
 
 .equacao {
-    color: #818181;
-    font-size: 24px;
+    color: #fff;
+    font-size: 30px;
 }
 .solucao {
     color: #fff;
-    font-size: 48px;
+    font-size: 40px;
 }
 .linhas {
     display: flex;
